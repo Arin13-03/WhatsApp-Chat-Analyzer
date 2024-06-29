@@ -151,5 +151,11 @@ if uploaded_file is not None:
             fig,ax = plt.subplots()
             ax.pie(emoji_df['Weight'].head(),autopct="%0.2f")#labels=emoji_df[0].head()
             st.pyplot(fig)
-
+# Display instructions or steps
+# Display instructions or steps
+st.sidebar.markdown('''<h3 style = color:lightgreen;>Steps:</h3><ul>
+                        <li> Export Chats from Your Whatsapp.
+                        <li> Upload the .txt file in the dialog box.
+                        <li> Click on Show Analysis button to view results.
+                        </ul>''', unsafe_allow_html = True)
 st.sidebar.markdown('<p style="font-size:20px; color:lightgreen;">Made By Arin © 2024</p>', unsafe_allow_html=True)
