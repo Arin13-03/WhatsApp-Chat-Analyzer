@@ -1,0 +1,836 @@
+[08/06/24, 17:44:35] Sarangyeo: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[08/06/24, 17:44:35] Sanat Nagpal IITG: ‎Sanat Nagpal IITG created group “Sarangyeo”
+[08/06/24, 17:44:35] Sarangyeo: ‎Sanat Nagpal IITG added you
+‎[08/06/24, 17:45:02] Sanat Nagpal IITG: ‎Contact card omitted
+[08/06/24, 17:57:40] Arin Gupta: https://github.com/Arin13-03/AI-Image-Classifier.git
+[09/06/24, 19:31:00] Arin Gupta: Isme saare bus schedules aur bhi important info bhej do
+‎[09/06/24, 19:52:34] Paarth Minear: ‎image omitted
+‎[09/06/24, 19:52:34] Paarth Minear: ‎image omitted
+‎[09/06/24, 19:52:35] Paarth Minear: ‎image omitted
+[09/06/24, 19:53:21] Paarth Minear: Campus
+[09/06/24, 19:53:23] Paarth Minear: Motel
+[09/06/24, 20:50:51] Arin Gupta: Bhai Organize krte h apna iternary ki kab kya krna h
+[09/06/24, 20:56:17] Sanat Nagpal IITG: haan
+‎[10/06/24, 03:13:13] Sanat Nagpal IITG: ‎image omitted
+‎[10/06/24, 14:37:22] Arin Gupta: s40745-015-0040-1.pdf • ‎29 pages ‎document omitted
+‎[10/06/24, 15:09:06] Sakksham Energy IITG: fuzzy membership generation function.pdf • ‎21 pages ‎document omitted
+‎[11/06/24, 16:25:29] Sanat Nagpal IITG: ‎image omitted
+[11/06/24, 16:54:07] Sitesh Goyal Civil IIT G: 2) A Modified Approach to Granulation of Data: Construction of Secondary Information Granules
+
+
+
+Abstract
+
+The conceptualization of Fuzzy clustering has augmented the field of Granular Computing  (GrC).  The construction of information granules, which are essentially the building blocks that integrate the whole concept, has been bettered as a result. These granules are further used for degranulation in order to obtain the granularized information.  This degranulation process might prove to be cumbersome in terms of the accuracy and the time taken. In this research, propose a unique approach to construct secondary granules in order to speed up the degranulation process while maintaining the accuracy of the same.  Define a family of ε-information granules (primary information granules) as a collection of hypercubes which represent the granulated information. These hypercubes are built around the cluster prototypes obtained from Fuzzy clustering. In addition, construct a family of secondary information granules concentric to these hypercubes. The correlation between the information and the secondary information granules is realized by the degree of similarity defined in this research. Furthermore, access the quality of these information granules by inspecting their coverage and specificity. The approach should pose certain real-world applications as well. The experimental results, carried out on certain datasets acquired from the UCI Machine Learning Repository, should be tabulated. Further insights regarding the construction of secondary information granules should be discussed.
+
+Key Words: Granular Computing, Fuzzy clustering, Secondary Information Granules, Degree of similarity.
+
+1. Project Purpose and Necessity
+
+Query based searching for data can prove to be cumbersome in terms of time complexity when we are dealing with large datasets. Hence, a need arises to shorten this time-consuming process efficiently. Granular computing and other techniques can be utilized for this purpose, as stated in this report.
+
+2. Proposed Solutions and Processes
+
+1.     Cluster the data using Fuzzy C means clustering.
+
+2.     Form information granules around the center prototypes.
+
+3.     Use the proposed algorithm and construct secondary information granules by partitioning the primary granules.
+
+4.     Construct the information granules and conceptualize the form that the information granule will take, wherein the computational power invested in degranulation and data retrieval is reduced by a significant amount.
+
+ 
+
+3. Results
+
+ The application of the proposed algorithm on 2-D synthetic data sets and data sets obtained from the Machine Learning Repository should be reported. Calculate the cluster centers using the FCM algorithm and proceed to form the information granules along with the partitions on the data set. Input in a query and the algorithm should return the closest approximation to the input query. Iterate over the values of ε to characterize the quality of coverage, specificity and Q and obtain the optimal value of ε. Set the value of fuzzifier m to 2.0 for both, FCM and the granulation process. Upon obtaining the optimal ε, plot the results of the granule formation over the set of data points. Also showcase the variation of Q and coverage over the number of clusters. Draw out the conclusions by varying the number of secondary information granules to be formed as well.
+‎[11/06/24, 17:11:49] Sanat Nagpal IITG: fuzzy-c-means-clustering-on-iris-dataset.ipynb ‎document omitted
+[11/06/24, 17:14:22] Arin Gupta: https://archive.ics.uci.edu/datasets
+[11/06/24, 17:14:27] Arin Gupta: Apne datasets
+‎[11/06/24, 17:43:27] Sanat Nagpal IITG: fuzzy-c-means-clustering-on-iris-dataset(1).ipynb ‎document omitted
+[11/06/24, 18:00:56] Sitesh Goyal Civil IIT G: https://www.degruyter.com/document/doi/10.1515/jisys-2014-0119/html?lang=en
+[11/06/24, 19:46:09] Sitesh Goyal Civil IIT G: Guys if u bring bread or milk and someone doesn't consume it don't add that guy to the splitwise bill split for that
+[11/06/24, 19:47:10] Arin Gupta: Mujhe pta nhi tha htata hun
+[11/06/24, 19:47:28] Arin Gupta: Hindi mein bhi bol skta tha 🙄
+‎[13/06/24, 03:43:39] Sanat Nagpal IITG: ‎image omitted
+‎[13/06/24, 03:43:43] Sanat Nagpal IITG: ‎image omitted
+‎[13/06/24, 03:43:56] Sanat Nagpal IITG: ‎image omitted
+[13/06/24, 03:52:04] Sanat Nagpal IITG: In sabke decay and truncation
+[13/06/24, 03:52:07] Sanat Nagpal IITG: Change krdena
+[13/06/24, 03:52:08] Sanat Nagpal IITG: Thodi
+[13/06/24, 19:01:01] Arin Gupta: Rest when gayzzz?
+[13/06/24, 19:01:27] Sanat Nagpal IITG: bhook lgri h
+[13/06/24, 19:01:49] Arin Gupta: Haan
+[13/06/24, 19:01:57] Arin Gupta: Time bolo
+[13/06/24, 19:02:41] Sanat Nagpal IITG: 7:30 dinner
+[13/06/24, 19:03:06] Sanat Nagpal IITG: abhi hi chalte h🫠
+[13/06/24, 19:03:21] Arin Gupta: Haan 10 min ruk
+[13/06/24, 19:03:23] Arin Gupta: Ata
+[13/06/24, 19:03:54] Sanat Nagpal IITG: ok
+[13/06/24, 19:18:47] Arin Gupta: Kahan ho guyz
+[13/06/24, 19:18:56] Sanat Nagpal IITG: Classroom
+[13/06/24, 19:19:04] Arin Gupta: Mein ipen space😓
+[13/06/24, 19:19:07] Arin Gupta: Aajao
+[13/06/24, 19:19:11] Sanat Nagpal IITG: Upar aaaja
+[13/06/24, 19:19:14] Sanat Nagpal IITG: Chalre fir
+[13/06/24, 19:19:15] Arin Gupta: Okk
+[13/06/24, 23:54:34] Sitesh Goyal Civil IIT G: Guys splitwise walks Bill settle kar do for now
+[13/06/24, 23:54:49] Sitesh Goyal Civil IIT G: Like bill date h card ki
+[13/06/24, 23:55:25] Sitesh Goyal Civil IIT G: And mujhe conversion rate 16.2 pada h after tax
+[13/06/24, 23:55:31] Sitesh Goyal Civil IIT G: Toh dekh lo
+‎[14/06/24, 00:02:54] Sitesh Goyal Civil IIT G: ‎image omitted
+[14/06/24, 00:34:03] Sanat Nagpal IITG: Paid
+[14/06/24, 00:36:58] Arin Gupta: Paid
+[14/06/24, 00:37:19] Sakksham Energy IITG: Mai kl krta hu motel jaake
+[14/06/24, 00:41:10] Sitesh Goyal Civil IIT G: Ohk
+[14/06/24, 00:45:16] Sitesh Goyal Civil IIT G: Guys bataya toh mujhe 16.2 ka pad raha h conversions ho sake toh uskr hisab se pay ko
+[14/06/24, 00:45:33] Sitesh Goyal Civil IIT G: @917027300051  tera amount kam
+[14/06/24, 00:47:44] Sanat Nagpal IITG: Current rate se bheja maine
+[14/06/24, 00:48:09] Sanat Nagpal IITG: That’s how economy works😁
+[14/06/24, 00:48:30] Arin Gupta: I really agree with you
+[14/06/24, 00:49:59] Sitesh Goyal Civil IIT G: maa chudao
+[14/06/24, 00:50:10] Sakksham Energy IITG: This is business 🫠
+[14/06/24, 02:41:17] Sakksham Energy IITG: group_neutralize(trade_when(rank(fnd6_am/ebit)> 0.1&&rank(fnd6_ci/working_capital)>= 0.02,log((high+1.13*low)/close),-1), densify(pv13_h_min51_f3_sector))
+[14/06/24, 02:41:34] Arin Gupta: Photo bhej deta bhai
+[14/06/24, 02:41:40] Arin Gupta: Settings bhi dekh lete
+‎[14/06/24, 02:41:52] Sakksham Energy IITG: ‎image omitted
+‎[14/06/24, 02:42:08] Arin Gupta: ‎sticker omitted
+[14/06/24, 02:42:22] Sakksham Energy IITG: (quantile(if_else(ts_rank(fnd6_newa1v1300_cshfd,580)>(850/10000)&&rank(fnd6_dc/employee)>.1&&rank(fnd6_aqc)>(3000/10000),log(vwap/close),-0.016)))
+‎[14/06/24, 02:42:45] Sakksham Energy IITG: ‎image omitted
+[14/06/24, 03:01:02] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:01:35] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:01:36] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:01:36] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:01:51] Arin Gupta: ‎This message was deleted by admin Sanat Nagpal IITG.
+[14/06/24, 03:02:02] Arin Gupta: ‎This message was deleted by admin Sanat Nagpal IITG.
+‎[14/06/24, 03:02:33] Paarth Minear: ‎sticker omitted
+[14/06/24, 03:02:43] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:02:45] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:03:04] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:03:11] Arin Gupta: ‎This message was deleted by admin Sanat Nagpal IITG.
+[14/06/24, 03:03:42] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:04:03] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:04:20] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:04:43] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:04:56] Sanat Nagpal IITG: ‎This message was deleted.
+[14/06/24, 03:05:28] Arin Gupta: ‎You deleted this message.
+[14/06/24, 03:05:49] Sakksham Energy IITG: ‎This message was deleted by admin Sanat Nagpal IITG.
+[14/06/24, 14:41:21] Paarth Minear: Next week ka subscription le rahe hai na?
+[14/06/24, 14:41:25] Paarth Minear: Toh aaj shaam tak batana hai
+[14/06/24, 14:41:38] Paarth Minear: Also jo jo anda khayega aur kitne wo bhi hata do
+[14/06/24, 14:41:38] Sitesh Goyal Civil IIT G: Yes
+[14/06/24, 14:41:43] Paarth Minear: Khane aaja
+[14/06/24, 14:41:49] Paarth Minear: Hum aaye abhi bus se utare
+[14/06/24, 14:44:30] Sitesh Goyal Civil IIT G: Bhai khane jesa lag nahi raha h
+[14/06/24, 14:44:35] Sitesh Goyal Civil IIT G: Mera pack kar de
+[14/06/24, 14:44:40] Sitesh Goyal Civil IIT G: Plz
+[14/06/24, 19:43:53] Arin Gupta: Khane chle
+[15/06/24, 08:04:30] Arin Gupta: 3ZJGfrj6
+‎[15/06/24, 20:40:22] Paarth Minear: 200103121_CV2_Analyst.pdf • ‎1 page ‎document omitted
+‎[15/06/24, 20:40:22] Paarth Minear: 200103121_CV1_Tech.pdf • ‎1 page ‎document omitted
+‎[15/06/24, 20:42:21] Sitesh Goyal Civil IIT G: Resume_1_page (1) - Pranjal Baranwal.pdf • ‎1 page ‎document omitted
+‎[15/06/24, 20:44:10] Paarth Minear: ‎sticker omitted
+‎[15/06/24, 21:24:21] Sitesh Goyal Civil IIT G: 210150021_1.pdf • ‎1 page ‎document omitted
+‎[15/06/24, 21:27:48] Sanat Nagpal IITG: ‎sticker omitted
+[16/06/24, 21:40:45] Sakksham Energy IITG: rank(if_else(ts_rank(fnd6_newa1v1300_cshfd,580)>(850/10000)&&rank(fnd6_dc/employee)>.1&&rank(fnd6_aqc)>(3000/10000),log(vwap/close),-0.016))
+‎[16/06/24, 21:41:28] Sakksham Energy IITG: ‎image omitted
+[17/06/24, 11:37:43] Sitesh Goyal Civil IIT G: check this out
+‎[17/06/24, 18:46:41] Sakksham Energy IITG: ‎image omitted
+‎[17/06/24, 18:46:41] Sakksham Energy IITG: ‎image omitted
+[17/06/24, 18:49:09] Sakksham Energy IITG: Turn20 = group_neutralize(Turn20_, bucket(rank(cap), range="0.1,1,0.1"));
+‎[18/06/24, 05:24:37] Paarth Minear: ‎video omitted
+[18/06/24, 17:25:17] Paarth Minear: https://us04web.zoom.us/j/78671421585?pwd=SoWU5Sp05mdxz0z2T9nI99mrYxYL5f.1
+‎[18/06/24, 21:57:26] Sakksham Energy IITG: ‎image omitted
+‎[18/06/24, 21:58:00] Sakksham Energy IITG: ‎image omitted
+[18/06/24, 22:09:29] Sakksham Energy IITG: slope = ts_regression(fnd6_newqv1300_drcq,step(2),252,rettype=2);
+[18/06/24, 22:11:30] Sakksham Energy IITG: (rank(slope)) + rank(rp_ess_technical)
+‎[18/06/24, 22:11:52] Sakksham Energy IITG: ‎image omitted
+[18/06/24, 22:23:03] Arin Gupta: Bhai ye bhi nhi h
+[18/06/24, 22:23:08] Arin Gupta: Chl rha
+[18/06/24, 22:23:23] Sanat Nagpal IITG: Khud bna le😂
+[18/06/24, 22:23:31] Arin Gupta: Bhenchod
+[18/06/24, 22:23:38] Sakksham Energy IITG: Do code bheja h upr dono saath m chla
+[18/06/24, 22:23:54] Arin Gupta: Haan dono saath mein hi chlaya
+[18/06/24, 22:24:18] Arin Gupta: Koi shi bhej de
+[18/06/24, 22:26:01] Sakksham Energy IITG: slope = ts_regression(fnd6_newqv1300_drcq,step(2),252,rettype=2);
+(rank(slope)) + rank(anl4_qfd1_az_div_number)
+‎[18/06/24, 22:27:41] Sakksham Energy IITG: ‎image omitted
+[18/06/24, 22:40:04] Arin Gupta: Bhejo saxxsam bhai
+[18/06/24, 22:41:51] Sakksham Energy IITG: Turn20_ = ts_mean(volume/sharesout, 20);
+Turn20 = group_neutralize(Turn20_, bucket(rank(cap), range="0.1,1,0.1"));
+
+STR_ = ts_std_dev(volume/sharesout, 20);
+STR = group_neutralize(STR_, bucket(rank(cap), range="0.1,1,0.1"));
+‎[18/06/24, 22:42:14] Sakksham Energy IITG: ‎image omitted
+[18/06/24, 22:42:29] Sakksham Energy IITG: rt = power(fnd6_intc,2.5);
+b = ts_mean(rt,22);
+o = ts_std_dev(rt,12);
+drt = -(ts_delta(b - rt, 20)/22) + o*ts_delta(sqrt(rt),8)/8*quantile(returns, driver = gaussian, sigma = 1);
+alpha = group_backfill(group_rank(drt,sector),market, 350);
+trade_when(volume>0.3*adv20, alpha, -1)
+[18/06/24, 22:42:39] Arin Gupta: Ye dono h na
+‎[18/06/24, 22:43:05] Sakksham Energy IITG: ‎image omitted
+[18/06/24, 22:43:10] Sakksham Energy IITG: ?
+[18/06/24, 22:43:22] Arin Gupta: alag h dono?
+\
+[18/06/24, 22:43:46] Sakksham Energy IITG: ha
+[18/06/24, 22:44:23] Sakksham Energy IITG: trade_when(news_tot_ticks, arc_tan(ts_arg_min(news_pct_120min,120)),-1)
+‎[18/06/24, 22:44:45] Sakksham Energy IITG: ‎image omitted
+[19/06/24, 14:33:20] Paarth Minear: jab khane jaoge tab bula lena
+[19/06/24, 14:34:59] Sitesh Goyal Civil IIT G: Chal me abhi nikal raha hu
+[19/06/24, 14:35:13] Sanat Nagpal IITG: 10 min se chalte\
+[19/06/24, 14:35:58] Paarth Minear: 5 min se chaltew
+‎[20/06/24, 19:58:27] Paarth Minear: Internship Companies 2023.xlsx • ‎9 sheets ‎document omitted
+‎[20/06/24, 20:01:27] Sanat Nagpal IITG: Internship Results - Slot 1 _ Spot 0 _ PIO's.eml ‎document omitted
+‎[21/06/24, 06:29:30] Paarth Minear: ‎video omitted
+[21/06/24, 12:35:24] Sanat Nagpal IITG: Introduction to Phonetics
+
+Average Grade: 6.31
+Median Grade: 6.00
+
+Few students failed due to poor performance in the paper
+[21/06/24, 12:35:24] Sanat Nagpal IITG: War and Peace: India's Military History
+
+Course was chill, 4 questions from 4 chapters were asked in exams, out of which you have to write only 2 questions' answers.
+
+Average Grade: 8.13
+Median Grade: 8.00
+
+Recommended
+[21/06/24, 12:35:24] Sanat Nagpal IITG: Introduction to Language Acquisition
+
+Average Grade: 6.92
+Median Grade: 7.00
+[21/06/24, 12:35:25] Sanat Nagpal IITG: Economic Theory: An Introduction 
+
+Easy course, past year questions will be asked mostly.
+Just studying a day before exam is sufficient to get 9 grade. 
+Attendence was never taken.
+You won't understand anything in class so you will need to study from book yourself before exams.
+
+Average Grade: 8.92
+Median Grade: 9.00
+
+Highly recommended
+[21/06/24, 12:35:25] Sanat Nagpal IITG: Intro to Psychology 
+
+Theoretical course, professor had taken attendance earlier but later dropped
+All lectures are available on the NPTEL YouTube channel.
+No Quiz were taken only MidSem & Endsem.
+
+Average Grade: 7.21
+Median Grade: 7.00
+
+Personally not recommended
+[21/06/24, 12:35:25] Sanat Nagpal IITG: Rest courses are new
+[22/06/24, 03:15:11] Sitesh Goyal Civil IIT G: https://www.geeksforgeeks.org/hackathon/adobe-gensolve-innovate-to-impact
+[22/06/24, 09:46:54] Arin Gupta: https://youtu.be/zkgkYduUZu4?si=WiIqXWrQvjQ8-WCg
+[22/06/24, 09:47:17] Arin Gupta: Yhaan Jaane ka logon ne bola for Clothing
+[22/06/24, 11:42:36] Paarth Minear: Isse saste price toh Myeongdong mei the na bkl
+[22/06/24, 11:42:54] Arin Gupta: Mujhe nhi dikhe
+[22/06/24, 11:43:12] Arin Gupta: same hi the
+[22/06/24, 12:00:00] Paarth Minear: Nah
+[22/06/24, 12:20:47] Arin Gupta: https://www.footlocker.kr/en/product/~/314105996004.html?utm_source=google&utm_medium=cpc&utm_campaign=shopping&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4JZrYL4kFfJU8e7paAUOFmPaw9Hzio9XJNk0z2UL_1rTgpEnqbe9ihoCT04QAvD_BwE
+‎[23/06/24, 11:50:33] Sanat Nagpal IITG: DOC-20240603-WA0002. • ‎8 pages ‎document omitted
+‎[23/06/24, 12:52:36] Arin Gupta: ‎image omitted
+‎[23/06/24, 12:52:36] Arin Gupta: ‎image omitted
+‎[23/06/24, 15:43:04] Paarth Minear: ‎image omitted
+[23/06/24, 15:55:02] Sanat Nagpal IITG: int count = 0;
+    for (int a : A) {
+        for (int b : B) {
+            for (int c : C) {
+                int result = a ^ b ^ c;
+                // Count number of 1s in the binary representation of result
+                int numSetBits = __builtin_popcount(result);
+                // Check if number of set bits is even
+                if (numSetBits % 2 == 0) {
+                    count++;
+                }
+            }
+        }
+    }
+    return count;
+‎[23/06/24, 17:36:36] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:36:37] Arin Gupta: ‎image omitted
+[23/06/24, 17:40:30] Paarth Minear: Ans = 0 ‎<This message was edited>
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+‎[23/06/24, 17:48:39] Arin Gupta: ‎image omitted
+[23/06/24, 17:59:15] Sakksham Energy IITG: Q8
+Ans= 2
+[23/06/24, 17:59:40] Sakksham Energy IITG: Ans= 2
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+‎[23/06/24, 18:13:46] Arin Gupta: ‎image omitted
+[23/06/24, 18:32:40] Paarth Minear: 0 - 10	5
+10 - 20	12
+20 - 30	3
+30 - 40	20
+40 - 50 5
+50 - 60 6
+60 - 70 10
+70 - 80 4
+80 - 90 12
+90 - 100 4
+‎[23/06/24, 21:24:10] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:10] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:11] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:11] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:12] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:12] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:13] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:13] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:13] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:13] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:14] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:24:14] Sanat Nagpal IITG: ‎image omitted
+[23/06/24, 21:32:40] Sanat Nagpal IITG: 11
+‎[23/06/24, 21:36:49] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:37:09] Sanat Nagpal IITG: ‎image omitted
+‎[23/06/24, 21:48:16] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 21:48:16] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:00:08] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:01:32] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:01:40] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:01:42] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:01:42] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:01:43] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:03:02] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:03:03] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:20] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:20] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:22] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:23] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:23] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:24] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:24] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:24] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:25] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:25] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:13:25] Sakksham Energy IITG: ‎image omitted
+[23/06/24, 23:14:52] Sakksham Energy IITG: Q4
+ans = 0.35
+[23/06/24, 23:15:46] Arin Gupta: 12 ka 2 xlogx +cx
+[23/06/24, 23:16:08] Sakksham Energy IITG: Q5
+ans = 0.88
+[23/06/24, 23:17:27] Arin Gupta: 11 ka 6.5 4.5 1 19 option 1
+[23/06/24, 23:19:25] Sitesh Goyal Civil IIT G: B
+[23/06/24, 23:21:14] Sitesh Goyal Civil IIT G: 0.1667
+[23/06/24, 23:23:14] Sakksham Energy IITG: Q3
+option no 3
+[23/06/24, 23:27:34] Sakksham Energy IITG: Q8
+option no 1
+‎[23/06/24, 23:32:49] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:50] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:50] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:51] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:51] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:52] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:52] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:52] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:32:53] Sakksham Energy IITG: ‎image omitted
+‎[23/06/24, 23:48:34] Arin Gupta: ‎sticker omitted
+‎[23/06/24, 23:55:08] Sakksham Energy IITG: ‎image omitted
+‎[25/06/24, 14:41:08] Paarth Minear: ‎image omitted
+[25/06/24, 14:41:21] Paarth Minear: 1806 pay kar dena sabh manikanta ko
+‎[25/06/24, 15:40:57] Sakksham Energy IITG: ‎image omitted
+[25/06/24, 15:41:30] Arin Gupta: Iska data bhej laude
+[25/06/24, 15:41:30] Sakksham Energy IITG: import numpy as np
+import matplotlib.pyplot as plt
+
+# Set random seed for reproducibility
+np.random.seed(0)
+
+# Number of points in each cluster
+n_points_outer_ring = 500
+n_points_inner_circle = 300
+
+# Generate points for the outer ring
+theta_outer = 2 * np.pi * np.random.rand(n_points_outer_ring)
+r_outer = 10 + np.random.randn(n_points_outer_ring)
+x_outer = r_outer * np.cos(theta_outer)
+y_outer = r_outer * np.sin(theta_outer)
+
+# Generate points for the inner circle with a larger radius
+theta_inner = 2 * np.pi * np.random.rand(n_points_inner_circle)
+r_inner = 7 * np.sqrt(np.random.rand(n_points_inner_circle))  # Increase the radius
+x_inner = r_inner * np.cos(theta_inner)
+y_inner = r_inner * np.sin(theta_inner)
+
+# Shift the inner circle to the periphery of the outer circle
+shift_x = 10  # Adjust this value to move the inner circle to the desired position
+shift_y = 0   # Adjust this value to move the inner circle to the desired position
+x_inner += shift_x
+y_inner += shift_y
+
+# Combine the datasets
+X = np.concatenate((x_outer, x_inner))
+Y = np.concatenate((y_outer, y_inner))
+
+# Normalize the data to the range [0, 1]
+X_min, X_max = X.min(), X.max()
+Y_min, Y_max = Y.min(), Y.max()
+X_normalized = (X - X_min) / (X_max - X_min)
+Y_normalized = (Y - Y_min) / (Y_max - Y_min)
+
+# Plotting the points
+plt.scatter(X_normalized, Y_normalized, s=10)
+plt.axis('equal')
+plt.xlim(0, 1)
+plt.ylim(0, 1)
+plt.show()
+[25/06/24, 15:41:49] Arin Gupta: End mein jo data points aaye wo bhej
+[25/06/24, 15:42:29] Sanat Nagpal IITG: ??
+[25/06/24, 15:42:48] Arin Gupta: Iska mein kya achar dalunga
+[25/06/24, 15:42:54] Arin Gupta: Data points do
+[25/06/24, 15:43:09] Sanat Nagpal IITG: Ruk
+[25/06/24, 15:44:27] Sakksham Energy IITG: ‎This message was deleted.
+[25/06/24, 15:45:27] Sakksham Energy IITG: X_normalized
+array([0.10673564, 0.34439475, 0.08173285, 0.06553941, 0.07921677,
+       0.1999447 , 0.09544113, 0.6393542 , 0.74288121, 0.16749769,
+       0.50878918, 0.02341395, 0.04186469, 0.75105296, 0.70848798,
+       0.67695851, 0.78600762, 0.59068799, 0.46066756, 0.65946567,
+       0.78731762, 0.5173771 , 0.07378121, 0.4713749 , 0.63158573,
+       0.16683694, 0.62172449, 0.73322489, 0.        , 0.08589942,
+       0.37623046, 0.46382683, 0.01891953, 0.03417047, 0.79212313,
+       0.13397673, 0.19729307, 0.14486249, 0.73595856, 0.2618335 ,
+       0.16469561, 0.17349914, 0.30221011, 0.7459516 , 0.24180364,
+       0.26494544, 0.50398214, 0.65932438, 0.28244956, 0.17142159,
+       0.06472046, 0.08290594, 0.78924499, 0.69426195, 0.49610585,
+       0.57438988, 0.20979516, 0.40218117, 0.03486479, 0.42181066,
+       0.60910349, 0.65449283, 0.22926835, 0.63483293, 0.51344924,
+       0.15079925, 0.56869933, 0.70652372, 0.60086618, 0.75836267,
+       0.74185343, 0.14007774, 0.76524447, 0.13233423, 0.38708387,
+       0.7179591 , 0.34064462, 0.67088002, 0.3139289 , 0.73088762,
+       0.27762892, 0.13108371, 0.65960898, 0.28184245, 0.15252079,
+       0.37742118, 0.0705423 , 0.68163392, 0.04210918, 0.75948075,
+       0.24300953, 0.25024595, 0.67485054, 0.33192998, 0.316576  ,
+       0.56803266, 0.13538688, 0.74440131, 0.59180507, 0.66833974,
+       0.23182255, 0.36297773, 0.37702162, 0.75969921, 0.41208788,
+       0.10770972, 0.08201646, 0.05176104, 0.48493095, 0.74413579,
+       0.0983885 , 0.59996174, 0.31080585, 0.30692055, 0.552396  ,
+       0.13006289, 0.69654017, 0.10933996, 0.66012267, 0.29233745,
+       0.36394494, 0.11244073, 0.70872777, 0.16349779, 0.06873983,
+       0.09500683, 0.71287517, 0.3194836 , 0.23353539, 0.32025401,
+       0.13674834, 0.05859327, 0.64849498, 0.28597919, 0.09778552,
+       0.14015669, 0.14782185, 0.2261334 , 0.20131758, 0.11785277,
+       0.71645642, 0.13880353, 0.16223012, 0.70755811, 0.50418495,
+       0.30488162, 0.72932889, 0.71989759, 0.34113944, 0.74140419,
+       0.61230805, 0.64348608, 0.59003442, 0.14896332, 0.66602013,
+       0.58857943, 0.53080685, 0.04133227, 0.12674523, 0.71509607,
+       0.28297766, 0.15846442, 0.34077541, 0.63009524, 0.76359444,
+       0.6291177 , 0.79421721, 0.1910091 , 0.36841512, 0.59785059,
+       0.1428459 , 0.74237885, 0.50384572, 0.73300272, 0.52438293,
+       0.46683833, 0.20699331, 0.6701849 , 0.31729974, 0.76180599,
+       0.59598263, 0.13924008, 0.09759216, 0.43780717, 0.74701017,
+       0.19238564, 0.06470144, 0.08907566, 0.36311781, 0.28074278,
+       0.1496016 , 0.48775403, 0.5453488 , 0.77825565, 0.39100202,
+       0.08102512, 0.45377539, 0.39920823, 0.72062619, 0.10187669,
+       0.27907703, 0.28783937, 0.1660774 , 0.51451213, 0.77673547,
+       0.74516122, 0.26165752, 0.10858691, 0.05437254, 0.70098817,
+       0.74486133, 0.48081019, 0.24358457, 0.3806707 , 0.70489974,
+       0.42893035, 0.273692  , 0.14126738, 0.15217663, 0.57129035,
+       0.1693985 , 0.61434354, 0.3570713 , 0.51042492, 0.52412409,
+       0.70272983, 0.26655372, 0.49218171, 0.73855416, 0.36560851,
+       0.40068834, 0.49279022, 0.01445252, 0.70505102, 0.50896831,
+       0.10789058, 0.1672651 , 0.07674118, 0.35102045, 0.14523491,
+       0.64501139, 0.71378386, 0.06124256, 0.64747745, 0.3417616 ,
+       0.13298966, 0.07147394, 0.54775602, 0.61607228, 0.04399645,
+       0.21245929, 0.74593003, 0.44627477, 0.40624952, 0.69687977,
+       0.75645746, 0.04144496, 0.13594656, 0.71031163, 0.32017953,
+       0.43199732, 0.69229515, 0.73911277, 0.77748882, 0.23478689,
+       0.46890512, 0.33759855, 0.09216527, 0.74128907, 0.04282818,
+       0.75618062, 0.62800083, 0.23109467, 0.71946128, 0.44627095,
+       0.70205007, 0.75328477, 0.51788838, 0.17985727, 0.64159298,
+       0.31572295, 0.63702112, 0.20163349, 0.77406379, 0.21847531,
+       0.58041805, 0.69162425, 0.09229961, 0.04948905, 0.17519689,
+       0.19308588, 0.66288811, 0.58585532, 0.54481523, 0.07885823,
+       0.47260448, 0.71926412, 0.65778791, 0.7341541 , 0.65453823,
+       0.76513447, 0.45411406, 0.23438409, 0.79051496, 0.10563182,
+       0.45259713, 0.61118536, 0.68321939, 0.35864637, 0.79948014,
+       0.45348492, 0.60530555, 0.72508428, 0.73989744, 0.26776936,
+       0.41862696, 0.12459952, 0.04372654, 0.64049769, 0.34815296,
+       0.3605153 , 0.6476268 , 0.78284234, 0.29496735, 0.38469239,
+       0.04741444, 0.27614712, 0.29496137, 0.32615153, 0.15540937,
+       0.54549405, 0.49021005, 0.7735398 , 0.30076485, 0.47036586,
+       0.46692151, 0.38837444, 0.17180271, 0.15734357, 0.36371539,
+       0.18961256, 0.5390139 , 0.04059368, 0.76817939, 0.5126074 ,
+       0.69618673, 0.07740361, 0.29941835, 0.02041742, 0.67408273,
+       0.18247415, 0.70922265, 0.09367211, 0.09262636, 0.10667895,
+       0.27913874, 0.33813699, 0.64946938, 0.15539701, 0.76776449,
+       0.54537712, 0.72072907, 0.1323157 , 0.05970407, 0.68968709,
+       0.12562194, 0.35010602, 0.07761353, 0.69947678, 0.26927036,
+       0.29255096, 0.25596384, 0.42467705, 0.21455468, 0.43069926,
+       0.602437  , 0.51821605, 0.75134852, 0.04479555, 0.14590432,
+       0.62810784, 0.06917515, 0.808284  , 0.10305767, 0.55364092,
+       0.70643391, 0.53768107, 0.60320956, 0.17545291, 0.17724538,
+       0.73313073, 0.10650912, 0.39352828, 0.61366113, 0.80570212,
+       0.7681717 , 0.17969929, 0.22000422, 0.77691147, 0.55117827,
+       0.1076848 , 0.74128097, 0.65639808, 0.74006167, 0.63182065,
+       0.07338539, 0.26092159, 0.45275331, 0.16723938, 0.72346249,
+       0.7629686 , 0.12608827, 0.71667747, 0.4056699 , 0.48208661,
+       0.40198982, 0.64778373, 0.74728973, 0.69807335, 0.13990259,
+       0.77476894, 0.76047579, 0.16321503, 0.59083752, 0.19492977,
+       0.03513878, 0.79684745, 0.71152762, 0.48609427, 0.31078632,
+       0.42733649, 0.19450291, 0.41758487, 0.23143955, 0.05964952,
+       0.09615094, 0.10557589, 0.33310987, 0.32098005, 0.09650439,
+       0.1765867 , 0.61399751, 0.7666466 , 0.73019946, 0.44925315,
+       0.18472653, 0.54993975, 0.75813791, 0.75715226, 0.72631326,
+       0.31660211, 0.75013836, 0.4109559 , 0.69548923, 0.75348792,
+       0.44490395, 0.26673048, 0.80882455, 0.3652659 , 0.66410426,
+       0.35634871, 0.16790554, 0.18010717, 0.40691915, 0.42961791,
+       0.55661411, 0.08656051, 0.30734375, 0.57759241, 0.43554465,
+       0.11511386, 0.72596902, 0.18744636, 0.64706049, 0.77530757,
+       0.41133415, 0.29957722, 0.75836485, 0.76983657, 0.10740577,
+       0.72402784, 0.31309473, 0.5847112 , 0.07699123, 0.67464304,
+       0.14759819, 0.1547833 , 0.66411028, 0.77900029, 0.10814896,
+       0.35608226, 0.1400458 , 0.69189319, 0.16866379, 0.03160841,
+       0.36642174, 0.06886901, 0.12837875, 0.41285666, 0.08868349,
+       0.80196868, 0.94689455, 0.68934978, 0.846016  , 0.95173094,
+       0.67126377, 0.76363234, 0.89256009, 0.61269209, 0.93630406,
+       0.93417139, 0.9638561 , 0.6445201 , 0.66154814, 0.82293265,
+       0.96285801, 0.75248569, 0.61091372, 0.59847754, 0.56320402,
+       0.90120398, 0.70684604, 0.62598266, 0.75405784, 0.95786399,
+       0.9101413 , 0.75101853, 0.88085224, 0.73746359, 0.54841489,
+       0.82552895, 0.59903748, 0.71390192, 0.63165541, 0.89780681,
+       0.86037088, 0.82331063, 0.93196456, 0.73768075, 0.60231026,
+       0.58382796, 0.72207938, 0.70868643, 0.74314586, 0.81244423,
+       0.66713706, 0.7027612 , 0.97301913, 0.85076117, 0.87282688,
+       0.62588424, 0.64952238, 0.55195172, 0.83501111, 0.96092043,
+       0.82175129, 0.81292357, 0.8065388 , 0.81758492, 0.94360423,
+       0.61087273, 0.60350329, 0.86240141, 0.89272166, 0.78228083,
+       0.53966322, 0.95975868, 0.99216661, 0.94579583, 0.918176  ,
+       0.9625108 , 0.77006607, 0.6696645 , 0.77062068, 0.80843587,
+       0.54528773, 0.79343122, 0.95552222, 0.93369042, 0.7200886 ,
+       0.93483458, 0.57592994, 0.65323133, 0.57056432, 0.95139669,
+       0.88907638, 0.73143571, 0.86239095, 0.85163821, 0.82523242,
+       0.82047348, 0.64655822, 0.55429286, 0.57369126, 0.9054323 ,
+       0.612975  , 0.81427611, 0.53027216, 0.58205698, 0.9146921 ,
+       0.69023487, 0.92798385, 0.70965284, 0.79082878, 0.68015128,
+       0.97121598, 0.7504185 , 0.77258073, 0.71282032, 0.60368254,
+       0.93725538, 0.90470195, 0.80372778, 0.68732511, 0.87440789,
+       0.65721995, 0.59045058, 0.96646265, 0.77958282, 0.62056206,
+       0.76984953, 0.76142589, 0.7959096 , 0.69562883, 0.82340715,
+       0.55570777, 0.54874667, 0.65854827, 0.96954456, 0.95741807,
+       0.70078539, 0.94993629, 0.88287937, 0.73989487, 0.99599285,
+       0.71831053, 0.67127066, 0.97321453, 0.84686216, 0.68096503,
+       0.83863792, 0.86608708, 0.67358091, 0.88203326, 0.99801242,
+       0.83837866, 0.92080464, 0.7185879 , 0.63682979, 0.8295452 ,
+       0.65403083, 0.86379   , 0.61727798, 0.82782312, 0.91081659,
+       0.78898789, 0.71361248, 0.91242232, 0.64068059, 0.83873827,
+       0.84475448, 0.69119849, 0.93850442, 0.81786996, 0.77832806,
+       0.84463684, 0.68057331, 0.903354  , 0.93692384, 0.65499196,
+       0.85606926, 0.91720977, 1.        , 0.94632157, 0.98003751,
+       0.94814522, 0.71566462, 0.54633819, 0.81275201, 0.75821235,
+       0.69695065, 0.62582756, 0.78453023, 0.6845336 , 0.77789543,
+       0.73256062, 0.75667004, 0.60635987, 0.71047286, 0.91952196,
+       0.68611882, 0.80913032, 0.86958053, 0.71361539, 0.57239935,
+       0.7372687 , 0.72796652, 0.73032394, 0.69436161, 0.82837301,
+       0.58341014, 0.91266044, 0.97510258, 0.67855079, 0.78447116,
+       0.6755603 , 0.71378134, 0.78002925, 0.71798135, 0.60786405,
+       0.58500061, 0.75167603, 0.91246897, 0.72605253, 0.78223789,
+       0.70808336, 0.56275332, 0.79577278, 0.884918  , 0.90956758,
+       0.90470676, 0.77085802, 0.92922748, 0.64653514, 0.77181463,
+       0.73740974, 0.70175104, 0.98256915, 0.92142112, 0.72007216,
+       0.64015729, 0.62290938, 0.69664633, 0.63795126, 0.93600637,
+       0.68816848, 0.88237103, 0.67417268, 0.66504386, 0.84333214,
+       0.85940262, 0.61209939, 0.70164461, 0.94684027, 0.88351325,
+       0.78195342, 0.67096701, 0.61834631, 0.83059491, 0.71741247,
+       0.89919626, 0.91285997, 0.87915529, 0.87920003, 0.87209678,
+       0.52867942, 0.80324271, 0.694312  , 0.75277798, 0.92531997,
+       0.75619333, 0.86566442, 0.79314903, 0.91841796, 0.80118264,
+       0.67514079, 0.97317194, 0.95257242, 0.81783252, 0.71535505,
+       0.69792668, 0.75857105, 0.76249063, 0.86277685, 0.66185075,
+       0.92282978, 0.69698298, 0.8716964 , 0.62666593, 0.75099886,
+       0.60844038, 0.72031027, 0.59388772, 0.96787766, 0.92924072,
+       0.74125098, 0.57115561, 0.91457708, 0.66602614, 0.70118928,
+       0.71141649, 0.93792585, 0.82969999, 0.75607016, 0.68114077,
+       0.79590073, 0.86130025, 0.60993946, 0.91392899, 0.88888351])
+
+Y_normalized
+array([0.3786324 , 0.15012244, 0.20378229, 0.37427192, 0.68850658,
+       0.17319799, 0.63997066, 0.27464377, 0.40001553, 0.7415317 ,
+       0.06195678, 0.40758862, 0.29573479, 0.29017718, 0.65512044,
+       0.67820599, 0.54525194, 0.1229236 , 0.15917607, 0.18179729,
+       0.43055191, 0.09882324, 0.58555707, 0.12162608, 0.72563545,
+       0.15039288, 0.79937292, 0.35392876, 0.42414643, 0.71222142,
+       0.91078841, 0.08080569, 0.61742847, 0.29039315, 0.5421225 ,
+       0.19891102, 0.28087148, 0.21285448, 0.35030551, 0.11517919,
+       0.83435692, 0.60373357, 0.12566347, 0.64435176, 0.15281554,
+       0.18221921, 0.91920878, 0.79319252, 0.82715257, 0.8073995 ,
+       0.30122727, 0.64315546, 0.45747701, 0.735456  , 0.86831283,
+       0.79560609, 0.157955  , 0.90526785, 0.58280788, 0.89249187,
+       0.84821169, 0.72516494, 0.17697521, 0.79742246, 0.83406937,
+       0.81369761, 0.10467814, 0.72980092, 0.13074158, 0.7679653 ,
+       0.43234211, 0.55186228, 0.42910626, 0.24125018, 0.10379825,
+       0.57929494, 0.87126851, 0.77422445, 0.86076586, 0.83317499,
+       0.82514065, 0.68224561, 0.61296993, 0.0985725 , 0.35732061,
+       0.87363157, 0.43190195, 0.70048733, 0.26975517, 0.29692808,
+       0.90904694, 0.16674939, 0.82394322, 0.07113077, 0.91549625,
+       0.90036496, 0.29787168, 0.53882866, 0.10001813, 0.49845859,
+       0.06756736, 0.91659429, 0.08543295, 0.39153004, 0.85542031,
+       0.30841562, 0.24218162, 0.28756926, 1.        , 0.37120295,
+       0.61386896, 0.17161369, 0.14163037, 0.87641772, 0.09977063,
+       0.73566787, 0.18214634, 0.29497617, 0.2233029 , 0.13028779,
+       0.15251044, 0.48676207, 0.39161843, 0.12725388, 0.69418307,
+       0.20210921, 0.53214811, 0.80010383, 0.16780341, 0.89151564,
+       0.20045131, 0.68460529, 0.80504709, 0.94663363, 0.31993138,
+       0.28934754, 0.33689103, 0.18469675, 0.14849557, 0.64482643,
+       0.21969771, 0.8337304 , 0.61165249, 0.21136091, 0.19266947,
+       0.08311934, 0.75921647, 0.29071726, 0.14293904, 0.48684215,
+       0.81010512, 0.19455402, 0.83027422, 0.22183548, 0.78195287,
+       0.19695788, 0.11721321, 0.2920286 , 0.70556005, 0.653706  ,
+       0.0622669 , 0.57694623, 0.04064661, 0.20525614, 0.42612404,
+       0.16556473, 0.52243827, 0.79547278, 0.11246481, 0.89562219,
+       0.44858386, 0.62644461, 0.82519198, 0.53336948, 0.01813967,
+       0.89017797, 0.83297738, 0.3432756 , 0.12694759, 0.57225565,
+       0.85268146, 0.19031824, 0.29924796, 0.91768348, 0.31838309,
+       0.27090872, 0.39874583, 0.25453804, 0.0611219 , 0.85320383,
+       0.71339364, 0.84035954, 0.86017562, 0.33414714, 0.16211737,
+       0.51244438, 0.84731895, 0.92927987, 0.62698092, 0.6452681 ,
+       0.85888853, 0.08762967, 0.761842  , 0.74591751, 0.55602773,
+       0.66420053, 0.12937779, 0.59392068, 0.39344977, 0.23372142,
+       0.46604664, 0.87999593, 0.17355146, 0.88874786, 0.53420906,
+       0.06538366, 0.82375695, 0.76874421, 0.30496999, 0.15456894,
+       0.1973998 , 0.24562383, 0.89762455, 0.11501888, 0.79921372,
+       0.3859599 , 0.09006969, 0.92356098, 0.35895978, 0.06837317,
+       0.906434  , 0.89973279, 0.4371043 , 0.54522904, 0.90956684,
+       0.66838303, 0.77298804, 0.5793468 , 0.87623498, 0.304045  ,
+       0.17614585, 0.81001594, 0.44543019, 0.79046474, 0.11804613,
+       0.73451096, 0.31907633, 0.8483291 , 0.79700502, 0.52143173,
+       0.78139921, 0.33676376, 0.05040436, 0.02637007, 0.25979089,
+       0.72163912, 0.34468553, 0.30375349, 0.40478444, 0.87121366,
+       0.93864775, 0.72819987, 0.52912299, 0.28777412, 0.12211013,
+       0.18405788, 0.90203345, 0.26797257, 0.65272252, 0.52805445,
+       0.43253696, 0.24165529, 0.8235962 , 0.40132842, 0.85695398,
+       0.37807128, 0.33614237, 0.09734383, 0.20491673, 0.21877949,
+       0.88170505, 0.1223384 , 0.26960017, 0.52477862, 0.80543608,
+       0.75508077, 0.45220465, 0.53983247, 0.49645417, 0.16394697,
+       0.76122883, 0.83016049, 0.07079495, 0.88366463, 0.46235865,
+       0.93739418, 0.7426059 , 0.15206692, 0.4251015 , 0.41843821,
+       0.21588622, 0.15140469, 0.8417739 , 0.73591641, 0.72149424,
+       0.93336547, 0.74591759, 0.60008408, 0.10806837, 0.52207055,
+       0.09922116, 0.78904264, 0.68888147, 0.73082839, 0.18175719,
+       0.84791433, 0.66947606, 0.33004275, 0.16894538, 0.        ,
+       0.93198953, 0.78843962, 0.6462562 , 0.88436404, 0.86758766,
+       0.60813485, 0.14306305, 0.11654149, 0.94137442, 0.76609613,
+       0.8301311 , 0.11209902, 0.64677958, 0.12551501, 0.1039455 ,
+       0.1083481 , 0.90420632, 0.7689322 , 0.31049266, 0.85743903,
+       0.75781387, 0.92299885, 0.59967038, 0.60907004, 0.12122057,
+       0.66375094, 0.44391765, 0.83153521, 0.25102248, 0.40988692,
+       0.14827251, 0.56794667, 0.66052484, 0.46650804, 0.40854332,
+       0.16136569, 0.96181521, 0.78097103, 0.72475516, 0.37318056,
+       0.86641723, 0.24159232, 0.39900846, 0.60199871, 0.19301995,
+       0.57707583, 0.06913612, 0.77234427, 0.25872297, 0.07928066,
+       0.07608581, 0.82428681, 0.08056334, 0.23014521, 0.87826343,
+       0.84385443, 0.07077122, 0.38588371, 0.6032878 , 0.29331769,
+       0.17494646, 0.59812565, 0.3457179 , 0.30677069, 0.13983903,
+       0.26814047, 0.15023973, 0.83976391, 0.20506388, 0.68904392,
+       0.64527229, 0.67102219, 0.83035364, 0.16048073, 0.5869573 ,
+       0.38026426, 0.83095914, 0.76629199, 0.53338123, 0.86968837,
+       0.73925263, 0.30693772, 0.69604323, 0.352779  , 0.2140453 ,
+       0.60487811, 0.81855673, 0.94824822, 0.24404155, 0.56619966,
+       0.52984537, 0.64704496, 0.6515991 , 0.86355872, 0.94736338,
+       0.92939073, 0.78702938, 0.51922969, 0.78570558, 0.20211355,
+       0.42067529, 0.46496403, 0.67294623, 0.83402806, 0.19405647,
+       0.51605061, 0.45976406, 0.64159612, 0.07198651, 0.95436221,
+       0.86965025, 0.08341846, 0.8625499 , 0.13668057, 0.44540986,
+       0.67705743, 0.36374448, 0.86297352, 0.12312282, 0.70432899,
+       0.81329444, 0.05069794, 0.27901315, 0.59994812, 0.90817574,
+       0.85488259, 0.11417469, 0.45275758, 0.41021358, 0.24040151,
+       0.84698372, 0.46982854, 0.91661519, 0.74924521, 0.36296352,
+       0.8802234 , 0.07381606, 0.66702193, 0.06835334, 0.21901834,
+       0.92390168, 0.7553998 , 0.75754713, 0.08048765, 0.79121713,
+       0.8077537 , 0.61292359, 0.82179142, 0.17986052, 0.87846608,
+       0.48450703, 0.35151885, 0.2017082 , 0.18686463, 0.32272895,
+       0.07478366, 0.10129507, 0.40728255, 0.47495321, 0.59883544,
+       0.6632584 , 0.89491875, 0.7773528 , 0.70920013, 0.82154652,
+       0.25713221, 0.75689058, 0.26233771, 0.40193233, 0.38378375,
+       0.88352026, 0.28548566, 0.24199965, 0.67469333, 0.3411632 ,
+       0.85469091, 0.60298042, 0.72074366, 0.86633481, 0.47592942,
+       0.34821991, 0.42830935, 0.67892806, 0.30415917, 0.65765871,
+       0.3719985 , 0.20653705, 0.71480877, 0.57631318, 0.32851105,
+       0.64128646, 0.51629038, 0.40261754, 0.53948532, 0.26655421,
+       0.36837327, 0.52429479, 0.63727367, 0.50598947, 0.34732914,
+       0.47323153, 0.30371431, 0.62062447, 0.59620295, 0.4074451 ,
+       0.68535456, 0.42212319, 0.42000629, 0.4417567 , 0.619407  ,
+       0.71092054, 0.69697912, 0.28910225, 0.28323157, 0.41324664,
+       0.36357382, 0.32899985, 0.36734631, 0.65843545, 0.6876356 ,
+       0.68353548, 0.47116194, 0.38023241, 0.58273173, 0.49679073,
+       0.5702357 , 0.66767948, 0.3968243 , 0.40279786, 0.33528568,
+       0.26394194, 0.68306438, 0.4125729 , 0.29527135, 0.65376686,
+       0.28178261, 0.50520541, 0.37350612, 0.31975468, 0.55935761,
+       0.30988277, 0.48679573, 0.70028624, 0.6933477 , 0.33054588,
+       0.37306208, 0.46509214, 0.45979892, 0.47982013, 0.65634304,
+       0.39482992, 0.76152098, 0.51835345, 0.2765583 , 0.66858625,
+       0.37862313, 0.57474327, 0.66268602, 0.6682126 , 0.55011458,
+       0.49547283, 0.59960331, 0.27914962, 0.6470381 , 0.62068131,
+       0.55071337, 0.6880261 , 0.69868679, 0.46651554, 0.59191116,
+       0.30353244, 0.40933236, 0.37781488, 0.47304818, 0.45987425,
+       0.68816502, 0.24075018, 0.3925089 , 0.64984935, 0.43886779,
+       0.43058554, 0.66749059, 0.52418349, 0.32398904, 0.23277556,
+       0.34922152, 0.71770125, 0.25304321, 0.50429588, 0.3982627 ,
+       0.43078678, 0.46801776, 0.43249414, 0.59535211, 0.37886189,
+       0.34558339, 0.58306199, 0.54365568, 0.33002265, 0.48745751,
+       0.45059594, 0.43191364, 0.3500715 , 0.72289863, 0.27477312,
+       0.41395527, 0.5313802 , 0.25412282, 0.52204018, 0.6589552 ,
+       0.75081637, 0.46629839, 0.65808781, 0.53583519, 0.57956573,
+       0.57996322, 0.71165722, 0.40477418, 0.34551039, 0.57470894,
+       0.50352884, 0.27395851, 0.3271155 , 0.68681657, 0.48288212,
+       0.55399488, 0.28675077, 0.6657352 , 0.55194134, 0.22363307,
+       0.23446094, 0.44117328, 0.33004364, 0.54333839, 0.33662207,
+       0.23185053, 0.26018972, 0.55070934, 0.59683752, 0.64506082,
+       0.29240018, 0.23443817, 0.3051799 , 0.47585444, 0.3694334 ,
+       0.48615913, 0.40675235, 0.52847688, 0.50779204, 0.67923057,
+       0.27093097, 0.28887426, 0.42042399, 0.58208969, 0.56217051,
+       0.35911686, 0.63855605, 0.39443307, 0.48312533, 0.492827  ,
+       0.36065331, 0.60281623, 0.26303113, 0.47384526, 0.72309326,
+       0.74295536, 0.61235374, 0.45252884, 0.29261326, 0.42950395,
+       0.24991448, 0.21520443, 0.71238935, 0.54632716, 0.62168274,
+       0.4217629 , 0.62256912, 0.59511645, 0.58943481, 0.29684731,
+       0.38003004, 0.57880642, 0.62163956, 0.59085367, 0.24159946,
+       0.24284938, 0.28302112, 0.29793331, 0.7040626 , 0.43380904,
+       0.43239805, 0.30568733, 0.44126584, 0.72399528, 0.40583427,
+       0.39127276, 0.36239787, 0.24200885, 0.43745758, 0.52968914,
+       0.70919774, 0.23162701, 0.60205552, 0.47603619, 0.54860123,
+       0.67491018, 0.26613822, 0.53862077, 0.30127   , 0.50728903,
+       0.48750249, 0.44823465, 0.39137208, 0.70132326, 0.63802327,
+       0.67619725, 0.73602683, 0.45219669, 0.73602838, 0.46425193,
+       0.4649875 , 0.32643205, 0.42602958, 0.46992367, 0.36924825,
+       0.24706705, 0.73920391, 0.6769457 , 0.74052325, 0.49380306,
+       0.48000783, 0.38215598, 0.61425704, 0.51126065, 0.39542766,
+       0.42538594, 0.63693523, 0.33896725, 0.47593713, 0.67175663,
+       0.60174987, 0.53716318, 0.62928927, 0.68798924, 0.61116831,
+       0.25536028, 0.56815308, 0.65375814, 0.56208198, 0.6112273 ,
+       0.72421915, 0.61594137, 0.33687175, 0.48817543, 0.46448903,
+       0.42158772, 0.54681038, 0.59020752, 0.59073844, 0.53248459,
+       0.49699067, 0.41656214, 0.53821666, 0.38684189, 0.3185521 ,
+       0.41231322, 0.5039594 , 0.68161332, 0.57357655, 0.25060119,
+       0.75260162, 0.6454237 , 0.43848029, 0.46334607, 0.40679987,
+       0.34642123, 0.29720977, 0.50798195, 0.32703739, 0.40458269])
+[25/06/24, 15:58:21] Arin Gupta: Coordinates k form mein do  as X = [(x,y),....]
+[25/06/24, 16:05:53] Arin Gupta: Bhej na
+‎[25/06/24, 16:08:19] Sakksham Energy IITG: ‎image omitted
+[25/06/24, 16:08:32] Sakksham Energy IITG: laude x or y bhej h isise ho jyega
+[25/06/24, 16:09:41] Arin Gupta: To khud krleta itni gaand kyu marayi
+[25/06/24, 16:09:49] Sanat Nagpal IITG: arey bhai
+[25/06/24, 16:09:52] Sanat Nagpal IITG: 2 cluster aagye
+[25/06/24, 16:09:54] Sanat Nagpal IITG: ab kya kare
+[25/06/24, 16:09:56] Sanat Nagpal IITG: help
+[25/06/24, 16:09:57] Sanat Nagpal IITG: plis
+[25/06/24, 16:10:12] Sanat Nagpal IITG: @916386762811
+[25/06/24, 16:10:20] Arin Gupta: tumne code kahan se nikala
+[25/06/24, 16:10:27] Sanat Nagpal IITG: import
+[25/06/24, 16:10:32] Sanat Nagpal IITG: scikit learn
+[25/06/24, 16:10:36] Arin Gupta: Chat gpt to nhi kiya na
+[25/06/24, 16:10:49] Sakksham Energy IITG: dbscan lg gya pr cluster 1-2 aarhe h
+[25/06/24, 16:11:21] Sanat Nagpal IITG: oye arin
+[25/06/24, 16:11:24] Arin Gupta: iska epsilon increase kr aur radius bhi
+[25/06/24, 16:11:28] Sanat Nagpal IITG: ab isme fcm lga de?
+[25/06/24, 16:11:32] Sanat Nagpal IITG: kara
+[25/06/24, 16:11:36] Sanat Nagpal IITG: 1 se 2 hogye
+[25/06/24, 16:11:38] Sanat Nagpal IITG: adjust krke
+[25/06/24, 16:11:45] Arin Gupta: uske different values pr dekho
+[25/06/24, 16:11:48] Sanat Nagpal IITG: epsilon hi to radius h na
+‎[25/06/24, 16:11:53] Sakksham Energy IITG: ‎image omitted
+[25/06/24, 16:12:04] Sanat Nagpal IITG: call utha le na
+[25/06/24, 16:12:05] Sakksham Energy IITG: kitna
+[26/06/24, 15:25:53] Sanat Nagpal IITG: Guys
+[26/06/24, 15:25:59] Sanat Nagpal IITG: Shor mat machaana abse
+[26/06/24, 15:26:03] Sanat Nagpal IITG: Complaint aayi hai
+[26/06/24, 15:26:33] Sanat Nagpal IITG: Nahi to rooms changed🙂
+[26/06/24, 15:47:25] Paarth Minear: 🙂
+[26/06/24, 15:47:31] Paarth Minear: Kiske room se?
+[26/06/24, 15:48:07] Sanat Nagpal IITG: 354 se 369
+[26/06/24, 15:48:11] Sanat Nagpal IITG: Aisa bola
+[26/06/24, 15:48:18] Sanat Nagpal IITG: Mickey mouse
+[26/06/24, 15:48:21] Sanat Nagpal IITG: Ke room pr
+[26/06/24, 15:48:23] Sanat Nagpal IITG: Guard
+[26/06/24, 15:48:26] Sanat Nagpal IITG: Aaya tha
+[26/06/24, 15:48:32] Paarth Minear: 👀👀
+[26/06/24, 20:26:04] Paarth Minear: Yrr guys isse pay kar do 1806 rup
+[26/06/24, 20:26:21] Sanat Nagpal IITG: Oh hnn
+[26/06/24, 20:26:40] Paarth Minear: Sanat sakksham and sitesh
+[26/06/24, 20:27:18] Sanat Nagpal IITG: Paid
+[26/06/24, 20:28:03] Paarth Minear: Usse text karde
+[27/06/24, 02:12:23] Sitesh Goyal Civil IIT G: done
+‎[27/06/24, 02:48:08] Sitesh Goyal Civil IIT G: BhadraTendulkar_CurriculumVitae.pdf • ‎1 page ‎document omitted
+‎[27/06/24, 12:58:28] Sitesh Goyal Civil IIT G: d67.pdf • ‎7 pages ‎document omitted
+‎[27/06/24, 12:58:28] Sitesh Goyal Civil IIT G: 1-s2.0-S0888613X14001716-main.pdf • ‎18 pages ‎document omitted
+[27/06/24, 12:58:46] Sitesh Goyal Civil IIT G: ye do pad lo acche se @917027300051 @919511832393
+‎[27/06/24, 14:17:55] Sitesh Goyal Civil IIT G: Granular Clustering Signature.pdf • ‎13 pages ‎document omitted
+[27/06/24, 14:58:21] Paarth Minear: Meine tanmay ko iss week ke pay kar diye hai usne inr maanga tha toh utna tax lag ke mujhe 267 rupees jyada lag gaye uske tax conversion ke hisab se
+[27/06/24, 14:58:32] Paarth Minear: Toh 50 each spilt kar deta hu aur
+[27/06/24, 14:59:27] Paarth Minear: So total 204125 won split kar deta hu splitwise pe
+[27/06/24, 14:59:38] Sanat Nagpal IITG: Krw dedete
+[27/06/24, 14:59:57] Paarth Minear: Are usne cash maanga cause usne apne liye cash nikala tha dollar deke
+[27/06/24, 15:00:06] Paarth Minear: Sorry usne inr maanga*
+[27/06/24, 15:00:18] Sanat Nagpal IITG: Okok
+[27/06/24, 15:00:20] Paarth Minear: Chodh na 50 per person hi jyada laga hai
+[27/06/24, 15:00:22] Sanat Nagpal IITG: Daalde
+[27/06/24, 15:00:25] Paarth Minear: Okayy
+‎[27/06/24, 15:32:38] Sanat Nagpal IITG: 210122036_2.pdf • ‎1 page ‎document omitted
+[27/06/24, 16:27:15] Sitesh Goyal Civil IIT G: Ek page CV bana, 2 page is strictly advised against
+[27/06/24, 16:27:15] Sitesh Goyal Civil IIT G: koi bhi sub point should always start and end on the same line. Line break ya multi line points mat rakh, change the spacing if needed
+[27/06/24, 16:27:15] Sitesh Goyal Civil IIT G: Every sub point should begin with the past tense of an active verb
+[27/06/24, 16:27:15] Sitesh Goyal Civil IIT G: Courses mein jo bhi Online kare hai, clubs ya coursera jaise sites se, unko MOOCs heading dena
+[27/06/24, 16:38:58] Sitesh Goyal Civil IIT G: https://in.mathworks.com/help/fuzzy/fcm.html
+‎[27/06/24, 16:46:53] Sitesh Goyal Civil IIT G: 1-s2.0-S0031320304001335-main.pdf • ‎11 pages ‎document omitted
+‎[27/06/24, 16:46:55] Sitesh Goyal Civil IIT G: 1-s2.0-S0888613X22002146-main.pdf • ‎19 pages ‎document omitted
+‎[27/06/24, 16:46:56] Sitesh Goyal Civil IIT G: Fuzzy_C-means_clustering_algorithm_for_automatically_determining_the_number_of_clusters.pdf • ‎5 pages ‎document omitted
+‎[27/06/24, 16:46:56] Sitesh Goyal Civil IIT G: A Self-Adaptive Fuzzy c-Means Algorithm for Datermining the optimal number of Clusters.pdf • ‎12 pages ‎document omitted
+‎[27/06/24, 16:46:57] Sitesh Goyal Civil IIT G: bioinformatics_26_22_2841.pdf • ‎8 pages ‎document omitted
+‎[27/06/24, 17:15:29] Arin Gupta: Doc1.docx • ‎2 pages ‎document omitted
+‎[27/06/24, 17:50:02] Arin Gupta: 27June.docx • ‎20 pages ‎document omitted
+[27/06/24, 18:57:04] Sanat Nagpal IITG: leaf disease detection(ml)
+debit card/credit card fraud detection (ml)
+library books management(sql  + dev)
+library seat management(computer vision + sql + dev)
+movie recommendation system
+attendance record, thru face detection
+‎[27/06/24, 23:58:38] Sanat Nagpal IITG: SanatNagpal_Finance (1).pdf • ‎1 page ‎document omitted
+‎[27/06/24, 23:58:58] Sanat Nagpal IITG: SanatNagpal_Non_Tech_CV (2).pdf • ‎1 page ‎document omitted
+[28/06/24, 00:36:07] Sakksham Energy IITG: hanyang waale me past tense use kr
+[28/06/24, 07:58:36] Sitesh Goyal Civil IIT G: @917027300051 @916386762811 voh watch wala clear kar do guys cash me hi pay kar do mujhe
+[28/06/24, 12:21:14] Sanat Nagpal IITG: Conversion rate kitna h tera?
+[28/06/24, 12:23:55] Sitesh Goyal Civil IIT G: Cash hi de de
+[28/06/24, 12:24:18] Sanat Nagpal IITG: Arey wo cash fir aage lg jayega na
+[28/06/24, 12:24:26] Sanat Nagpal IITG: Agar khi gye
+[28/06/24, 12:24:35] Sanat Nagpal IITG: And jimmy ko bhi dena h
+[28/06/24, 12:32:33] Sitesh Goyal Civil IIT G: but bhai mujhe bhi cash hi chahiye na
+[28/06/24, 12:32:42] Sitesh Goyal Civil IIT G: mujhe abhi cash ka hi kaam h
+[28/06/24, 13:00:34] Sanat Nagpal IITG: Abe INR lele na
+[28/06/24, 13:00:38] Sanat Nagpal IITG: 16.2 tha
+[28/06/24, 13:00:39] Sanat Nagpal IITG: Na
+[28/06/24, 13:00:45] Sanat Nagpal IITG: Usi se dedenge
+[28/06/24, 13:02:01] Sanat Nagpal IITG: Problem ye hai na bhai cash h nahi itna
+[28/06/24, 13:02:07] Sanat Nagpal IITG: Hota to lage haath pakda deta
+‎[28/06/24, 13:32:28] Paarth Minear: 210121057_AppingResume.pdf • ‎1 page ‎document omitted
+[28/06/24, 13:33:21] Sanat Nagpal IITG: ye kon h
+[28/06/24, 13:33:30] Paarth Minear: Senior
+[28/06/24, 13:33:39] Sanat Nagpal IITG: iski lgi thi kahi?
+[28/06/24, 13:33:54] Paarth Minear: Haa ig kpmg
+[28/06/24, 13:33:58] Sanat Nagpal IITG: uuu
+[28/06/24, 13:34:03] Paarth Minear: Yaa kahi toh acchi hi lagi hai
+[28/06/24, 13:34:08] Paarth Minear: I don’t remember
+[28/06/24, 13:34:32] Sanat Nagpal IITG: kk
+‎[29/06/24, 11:01:31] Paarth Minear: ‎image omitted
